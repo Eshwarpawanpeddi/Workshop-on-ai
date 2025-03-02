@@ -6,3 +6,7 @@ streamlit==0.72.0
 plotly==4.14.1
 Pillow==8.0.1
 scikit_learn==0.24.0
+torch==2.4.1
+triton==3.0.0
+transformers==4.46.3
+safetensors==0.4.5
